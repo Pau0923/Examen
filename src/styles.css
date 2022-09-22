@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  margin: auto;
+  padding: auto;
+
+  }
+
+
+  body{
+      background: rgb(255, 153, 255);
+          color: black;
+
+  }
+  #contenedor {
+    width: auto;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    }
+
